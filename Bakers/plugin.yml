@@ -1,0 +1,7 @@
+name: Bakers
+version: 1.6
+main: es.programahermes.pitazzo.Main
+commands:
+  Bakers:
+     description: Shows some information about Bakers
+     usage: /bakers

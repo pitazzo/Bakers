@@ -1,0 +1,12 @@
+#Welcome to Bakers's configuration file and thanks for downloading! Feel free to change anything as you want.
+#Get more info at: http://dev.bukkit.org/bukkit-plugins/bakers/
+
+
+
+Messages:
+  Consum: Mmmm... I may need to buy more paper...
+  Damage1: Ouch! This furnace is really hot!
+  Damage2: Not good idea touch so hot things...
+  PaperUseSuggestion: May I use some paper?
+Item: 339 
+Consume: true
